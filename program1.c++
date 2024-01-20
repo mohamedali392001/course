@@ -11,5 +11,6 @@ int main()
     cout <<"my name is mohamed\t my name is ali\n";
     cout <<"my name is \"mohamed\" ";
     cout << 15 << endl;
+    cout << 13 << "\n";
   return 0;  
   }
